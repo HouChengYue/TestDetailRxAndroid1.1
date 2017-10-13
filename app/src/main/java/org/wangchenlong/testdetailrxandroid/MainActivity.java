@@ -9,6 +9,9 @@ import android.view.View;
 /**
  * 主Activity, 用于跳转各个模块.
  *
+ * 详细解析RxAndroid的使用方式 - 简书
+ http://www.jianshu.com/p/6d1ef9f43cdc
+ *
  * @author wangchenlong
  */
 public class MainActivity extends AppCompatActivity {
